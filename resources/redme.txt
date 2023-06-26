@@ -1,0 +1,2 @@
+download resource data penyakit padi pada link di bawah ini. kemudian letakkan di folder ini
+https://www.kaggle.com/datasets/tedisetiady/leaf-rice-disease-indonesia
